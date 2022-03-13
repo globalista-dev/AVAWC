@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Actual Vanilla Wither Cages",
-  "description": "This datapack, made into a fabric mod, makes netherite blocks wither-proof",
+  "description": "This really simple mod makes netherite blocks wither-proof",
   "authors": [
     "yGlobalista"
   ],
