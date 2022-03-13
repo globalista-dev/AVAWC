@@ -9,8 +9,8 @@
     "yGlobalista"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/globalista-dev",
+    "sources": "https://github.com/globalista-dev/AVAWC"
   },
 
   "license": "CC0-1.0",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.globalista.avawc.AVAWC"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "avawc.mixins.json"
   ],
 
   "depends": {
